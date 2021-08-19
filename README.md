@@ -1,7 +1,10 @@
 <h1 align="center">Darshan ✨</h1>
 
+<div align="center">
+  
 Hi, my name is Darshan and I'm from India. I'm a Discord Developer with a verified bot, [Neptune](https://top.gg/bot/826722489543295006).
-
+</div
+  
 <h3 align="center">Connections </h3>
 
 <div align="center">
