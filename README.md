@@ -3,7 +3,7 @@
 <div align="center">
   
 Hi, my name is Darshan and I'm from India. I'm a Discord Developer with a verified bot, [Neptune](https://top.gg/bot/826722489543295006).
-</div
+</div>
   
   
 <h2 align="center">Connections </h2>
