@@ -5,7 +5,8 @@
 Hi, my name is Darshan and I'm from India. I'm a Discord Developer with a verified bot, [Neptune](https://top.gg/bot/826722489543295006).
 </div
   
-<h3 align="center">Connections </h3>
+  
+<h2 align="center">Connections </h2>
 
 <div align="center">
   
