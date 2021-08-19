@@ -18,7 +18,7 @@ Hi, my name is Darshan and I'm from India. I'm a Discord Developer with a verifi
 
 <div align="center">
   
-  ![Nin's Stats](https://github-readme-stats.vercel.app/api?username=Ninn08&show_icons=true&theme=midnight-purple)
+  [![Nin's Stats](https://github-readme-stats.vercel.app/api?username=Ninn08&show_icons=true&theme=midnight-purple)](https://github.com/Ninn08)
   
-  ![Nin's Stats #2](https://github-readme-stats.vercel.app/api/top-langs/?username=Ninn08&layout=compact&theme=midnight-purple)
+  [![Nin's Stats #2](https://github-readme-stats.vercel.app/api/top-langs/?username=Ninn08&layout=compact&theme=midnight-purple)](https://github.com/Ninn08)
 </div>
