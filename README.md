@@ -2,7 +2,7 @@
 
 <div align="center">
   
-Hi, my name is Darshan and I'm from India. I'm a Discord Developer with a verified bot, [Neptune](https://top.gg/bot/826722489543295006).
+Hi, my name is Darshan and I'm from India. I'm a Discord Bot Developer. Check out my bot, [Neptune](https://top.gg/bot/826722489543295006).
 </div>
   
   
