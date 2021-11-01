@@ -2,7 +2,7 @@
 
 <div align="center">
   
-Hi, my name is Darshan and I'm from India. I'm a Discord Bot Developer. Check out my bot, [Neptune](https://top.gg/bot/826722489543295006).
+Hi, my name is Darshan and I'm from India. I'm a Discord Bot Developer and a Minecraft Gamer. 
 </div>
   
   
@@ -10,7 +10,7 @@ Hi, my name is Darshan and I'm from India. I'm a Discord Bot Developer. Check ou
 
 <div align="center">
   
-  [![discord](https://img.shields.io/badge/-%20Nin%231111-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/838620835282812969)
+  [![discord](https://img.shields.io/badge/-%20o' Nin%238881-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/838620835282812969)
   [![instagram](https://img.shields.io/badge/-not__ninn__-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/not_ninn_)
 </div>
 
