@@ -2,7 +2,7 @@
 
 <div align="center">
   
-Hi, my name is Darshan and I'm from India. I'm a Discord Bot Developer and a Minecraft Gamer. 
+Hi, my name is Darshan and I'm from India. I'm a 11th grader at WGS a simple developer. 
 </div>
   
   
