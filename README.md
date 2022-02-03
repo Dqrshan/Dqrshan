@@ -3,12 +3,8 @@
 <div align="center">
   
 Hi, my name is Darshan and I'm from India. I'm a simple developer and a gamer who studies at WGS, Bangalore.
-</div>
-
-<div align="left">
-  - Birthday: 22/08/2005
-</div>
-  
+Birthday: 22/08/2005
+</div>  
   
 <h2 align="center">Connections</h2>
 
