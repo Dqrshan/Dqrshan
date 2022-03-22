@@ -1,6 +1,6 @@
 ## Welcome to Darshan's _Sneaky_ Profile!
 
-Hello there 👋! I'm Darshan, 16 years old from Bangalore, India. I'm in 11th grade, studying at [Whitefield Global School](https://wgs-cet.in/).
+Hello there 👋! I'm Darshan, 16 years old from Bangalore, India. I'm a 12th grader at [Whitefield Global School](https://wgs-cet.in/).
 
 - Birthday: [22/08/2005](https://happyhappybirthday.net/en/2005/08/22) [**22nd August 2005**]
 
