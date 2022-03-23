@@ -24,6 +24,6 @@ I'm Darshan, 16 years old from Bangalore, India. I like to code stuff, contribut
 ----
 
 ### 📊 GitHub Statistics
-[![Darshan's Stats](https://github-readme-stats.vercel.app/api?username=Dqrshan&show_icons=true&theme=midnight-purple)](https://github.com/Dqrshan)
-[![Darshan's Stats #2](https://github-readme-stats.vercel.app/api/top-langs/?username=Dqrshan&layout=compact&theme=midnight-purple)](https://github.com/Dqrshan)
-[![Darshan's Stats #3](https://github-readme-streak-stats.herokuapp.com?user=Dqrshan&theme=midnight-purple&hide_border=true)](https://github.com/Dqrshan)
+[![Darshan's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dqrshan&layout=compact&theme=midnight-purple)](https://github.com/Dqrshan)
+[![Darshan's Stats #2](https://github-readme-stats.vercel.app/api?username=Dqrshan&show_icons=true&theme=midnight-purple)](https://github.com/Dqrshan)
+[![Darshan's Stats #3](https://github-readme-streak-stats.herokuapp.com?user=Dqrshan&theme=midnight-purple&hide_border=false)](https://github.com/Dqrshan)
