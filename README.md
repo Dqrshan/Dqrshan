@@ -9,7 +9,7 @@ I'm Darshan, 16 years old from Bangalore, India. I like to code stuff, contribut
 ### 🌙 About Me
 
 - 🤖 I like to code **Discord Bots** (discord.js)
-- 🐍 Learning [Python] and [MySQL]
+- 🐍 Learning [Python](https://www.python.org/) and [MySQL](https://www.mysql.com/)
 - 😎 Course: Science, PCMC (Physics, Chemistry, Mathematics, Computer Science)
 - 🎂 Birthday: [22/08/2005](https://happyhappybirthday.net/en/2005/08/22) [**22nd August 2005**]
 - ✒️ 12th grader at [Whitefield Global School](https://wgs-cet.in/)
