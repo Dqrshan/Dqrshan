@@ -1,30 +1,25 @@
-# Hello Humans 👋
+<h1 align="center">Hi 👋, I'm Darshan</h1>
+<h3 align="center">A student and developer from Bangalore, India</h3>
 
-----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dqrshan&label=Views&color=8a9dff&style=flat-square" alt="dqrshan" /> </p>
 
-I'm Darshan, 16 years old from Bangalore, India. I like to code stuff, contribute to open source projects and GFX designing in my free time.
+-   🔭 I’m currently studying XII grade in [Whitefield Global School](https://wgs-cet.in/)
 
-----
+-   🌱 I’m currently learning **how to socialize**
 
-### 🌙 About Me
+-   🤝 I’m looking for help with [Typescript](https://www.typescriptlang.org/)
 
-- 🐍 Learning [Python](https://www.python.org/) and [MySQL](https://www.mysql.com/)
-- 😎 Course: Science, PCMC (Physics, Chemistry, Mathematics, Computer Science)
-- 🎂 Birthday: [22/08/2005](https://happyhappybirthday.net/en/2005/08/22) [**22nd August 2005**]
-- ✒️ 12th grader at [Whitefield Global School](https://wgs-cet.in/)
-- 📖 Working with [Javascript](https://www.javascript.com/), [Sequelize](https://sequelize.org/), [Mongoose](https://mongodb.com/)
-- 🤖 I like to code **Discord Bots** (discord.js)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/dqrshan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dqrshan_" height="30" width="40" /></a>
+<a href="https://discord.gg/JhdhdQgGH6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JhdhdQgGH6" height="30" width="40" /></a>
+</p>
 
-----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### ✖️ Connections
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dqrshan&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="dqrshan" /></p>
 
-- [![discord](https://img.shields.io/badge/-%20Lorenz%231337-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/838620835282812969)
-- [![instagram](https://img.shields.io/badge/-dqrshan__-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dqrshan_)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dqrshan&show_icons=true&theme=tokyonight&locale=en" alt="dqrshan" /></p>
 
-----
-
-### 📊 GitHub Statistics
-[![Darshan's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dqrshan&layout=compact&theme=material-palenight&hide_border=true)](https://github.com/Dqrshan)
-[![Darshan's Stats #2](https://github-readme-stats.vercel.app/api?username=Dqrshan&show_icons=true&theme=material-palenight&hide_border=true)](https://github.com/Dqrshan)
-[![Darshan's Stats #3](https://github-readme-streak-stats.herokuapp.com?user=Dqrshan&theme=material-palenight&hide_border=true)](https://github.com/Dqrshan)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dqrshan&theme=dark" alt="dqrshan" /></p>
