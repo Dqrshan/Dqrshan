@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dqrshan&label=Views&color=8a9dff&style=flat-square" alt="dqrshan" /> </p>
 
--   🔭 I’m currently studying XII grade in [Whitefield Global School](https://wgs-cet.in/)
-
 -   🌱 I’m currently learning **how to socialize**
 
--   🤝 I’m looking for help with [Typescript](https://www.typescriptlang.org/)
+-   🔭 I’m currently learning web designing, GFX designing and improving programming skills
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
