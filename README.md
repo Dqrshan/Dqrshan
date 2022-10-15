@@ -1,1 +1,1 @@
-[![https://lanyard-visualizer.netlify.app/user/838620835282812969?background=false]](https://discord.com/users/838620835282812969)
+[![Lorenz#6933](https://lanyard.cnrad.dev/api/838620835282812969)](https://discord.com/users/838620835282812969)
