@@ -8,5 +8,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dqrshan&theme=juicyfresh&no-frame=true&title=Commits,Stars,Repositories">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dqrshan&theme=juicyfresh&row=1">
 </div>
