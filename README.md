@@ -8,5 +8,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dqrshan&theme=juicyfresh&row=1">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dqrshan&theme=juicyfresh&row=1&margin-w=7&margin-h=10&no-frame=true">
 </div>
