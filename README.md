@@ -7,3 +7,6 @@
   <img src="https://raw.githubusercontent.com/Dqrshan/github-stats/master/generated/languages.svg#gh-dark-mode-only">
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dqrshan&theme=juicyfresh&no-frame=true&title=Commits,Stars,Repositories">
+</div>
