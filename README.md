@@ -39,6 +39,8 @@
   <div>
     <img src="https://raw.githubusercontent.com/Dqrshan/github-stats/master/generated/overview.svg#gh-dark-mode-only">
     <img src="https://raw.githubusercontent.com/Dqrshan/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=Dqrshan&show_icons=true&theme=github_dark" alt="stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dqrshan&layout=compact&theme=github_dark" alt="langs"> -->
   </div>
 </div>
 
