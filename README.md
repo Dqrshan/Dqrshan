@@ -1,6 +1,6 @@
 <!-- main -->
 
-<h1 align="center">Hey, I'm <a href="https://darshan.studio/">Darshan</a> 👋</h1>
+<h1 align="center">Hey, I'm <a href="https://darshan.is-a.dev/">Darshan</a> 👋</h1>
 
 <!-- socials -->
 <div align="center">
