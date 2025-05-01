@@ -5,19 +5,19 @@
 <h2 align="center">Socials</h2>
 
 <p align="center">
-  <a href="https://discord.com/users/838620835282812969">
+  <a href="https://discord.com/users/838620835282812969" target="_blank">
     <img src="https://img.shields.io/badge/l.orenz-1b1f23?style=for-the-badge&logo=discord&logoColor=5865F2" />
   </a>
-  <a href="https://instagram.com/bruh.darshan">
+  <a href="https://instagram.com/bruh.darshan" target="_blank">
     <img src="https://img.shields.io/badge/bruh.darshan-1b1f23?style=for-the-badge&logo=instagram&logoColor=E1306C" />
   </a>
-  <a href="https://open.spotify.com/user/31cuw64kbwyw4vn6epubs7kzdkpq">
-    <img src="https://img.shields.io/badge/Lorenz-1b1f23?style=for-the-badge&logo=spotify&logoColor=1DB954" />
+  <a href="https://open.spotify.com/user/31cuw64kbwyw4vn6epubs7kzdkpq" target="_blank">
+    <img src="https://img.shields.io/badge/Darshan-1b1f23?style=for-the-badge&logo=spotify&logoColor=1DB954" />
   </a>
-  <a href="https://stackoverflow.com/users/15748819/darshan-b">
+  <a href="https://stackoverflow.com/users/15748819/darshan-b" target="_blank">
     <img src="https://img.shields.io/badge/Darshan_B-1b1f23?style=for-the-badge&logo=stackoverflow&logoColor=F48024" />
   </a>
-  <a href="https://linkedin.com/in/darshanb05">
+  <a href="https://linkedin.com/in/darshanb05" target="_blank">
     <img src="https://img.shields.io/badge/in-darshan_b-1b1f23?style=for-the-badge&labelColor=0077B5&logo=linkedin&logoColor=white" />
 
   </a>
