@@ -22,13 +22,13 @@
 <table>
   <tr>
     <td width="60">
-      <img src="https://ziphive.vercel.app/web-app-manifest-512x512.png" width="48" />
+      <img src="https://ziphive.js.org/web-app-manifest-512x512.png" width="48" />
     </td>
     <td>
       <b>Zip Hive</b><br/>
       Visualize and generate file structures from plain text input
       <br/>
-      <a href="https://ziphive.vercel.app">Website</a>・<a href="https://discord.com/invite/x9EMPXCdSP">Discord</a>
+      <a href="https://ziphive.js.org">Website</a>・<a href="https://discord.com/invite/x9EMPXCdSP">Discord</a>
     </td>
   </tr>
   <tr>
