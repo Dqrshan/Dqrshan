@@ -66,7 +66,7 @@
   </tr>
 </table>
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Dqrshan&theme=juicyfresh&no-frame=true&row=1&margin-w=8" />
@@ -79,6 +79,6 @@
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Dqrshan&theme=dark&border_radius=5&stroke=999999&border=999999&background=0d1117" />
-</div>
+</div> -->
 
 ---
