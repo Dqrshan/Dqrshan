@@ -11,11 +11,11 @@
 
 ![Languages](https://skillicons.dev/icons?i=js,ts,python,html,css,md)
 
-![Full Stack](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,flask,fastapi)
+![Full Stack](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,flask,fastapi,vite)
 
 ![Databases & ORMs](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,prisma,sequelize)
 
-![Tools & Platforms](https://skillicons.dev/icons?i=vscode,figma,ps,linux,vercel,netlify,arduino,git)
+![Tools & Platforms](https://skillicons.dev/icons?i=vscode,figma,ps,linux,vercel,netlify,arduino,git,bun,docker,aws)
 
 ## My Projects
 
@@ -26,20 +26,8 @@
     </td>
     <td>
       <b>Zip Hive</b><br/>
-      Visualize and generate file structures from plain text input
-      <br/>
+      A productivity web tool that visualizes hierarchical folder structures from plain text and generates downloadable ZIP files instantly.<br/>
       <a href="https://ziphive.js.org">Website</a>・<a href="https://discord.com/invite/x9EMPXCdSP">Discord</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="60">
-      <img src="https://electra-bot.vercel.app/logo.png" width="48" />
-    </td>
-    <td>
-      <b>Electra</b><br/>
-      An advanced messages tracking discord bot
-      <br/>
-      <a href="https://electra-bot.vercel.app/">Website</a>・<a href="https://discord.com/application-directory/923925375657082931">Invite</a>
     </td>
   </tr>
   <tr>
@@ -48,9 +36,49 @@
     </td>
     <td>
       <b>AstroFit</b><br/>
-      A fitness app for astronauts
-      <br/>
+      An award-winning computer vision fitness app for astronauts that uses OpenCV and MediaPipe to track reps, sets, and live form via an AR helmet wireframe.<br/>
       <a href="https://codeday.sh/astrofit">Showcase</a>・<a href="https://github.com/TheMadHau5/AstroKit">GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="60">
+      <img src="https://via.placeholder.com/48?text=CR" width="48" />
+    </td>
+    <td>
+      <b>CodeRace</b><br/>
+      A tiered competitive programming platform built to facilitate and automate lab internal examinations for 1000+ CS students.<br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="60">
+      <!-- No icon available -->
+      <img src="https://loveallcard.com/images/Love_All.avif" width="48" />
+    </td>
+    <td>
+      <b>LoveAll</b><br/>
+      A MERN-stack social platform featuring four distinct dashboards and Razorpay integration, streamlining interactions between users, businesses, and volunteers.<br/>
+      <a href="https://loveallcard.com/">Website</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="60">
+      <!-- No icon available -->
+      <img src="https://via.placeholder.com/48?text=Cert" width="48" />
+    </td>
+    <td>
+      <b>Certificate Generation</b><br/>
+      An end-to-end certificate automation platform with drag-and-drop template design, CSV mapping, and bulk PDF email distribution.<br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="60">
+      <!-- No icon available -->
+      <img src="https://via.placeholder.com/48?text=AC" width="48" />
+    </td>
+    <td>
+      <b>Agri Connect</b><br/>
+      A Google Solution Challenge mobile app connecting farmers to markets with OTP login, AI crop health scanning, and transaction logging.<br/>
+      <a href="https://github.com/Dqrshan/agri-connect">GitHub</a>
     </td>
   </tr>
   <tr>
@@ -59,9 +87,30 @@
     </td>
     <td>
       <b>discord-debug</b><br/>
-      A simple and efficient discord.js debugging tool
-      <br/>
+      A developer utility npm package that provides a suite of custom commands for real-time diagnostics and debugging within Discord.js bots.<br/>
       <a href="https://npmjs.com/package/discord-debug">npm</a>・<a href="https://lxrnz.gitbook.io/discord-debug">Docs</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="60">
+      <!-- No icon available -->
+      <img src="https://via.placeholder.com/48?text=SM" width="48" />
+    </td>
+    <td>
+      <b>Smart Mirror Assistant</b><br/>
+      Voice-controlled smart mirror that provides date/time, weather, news, and more using IoT, NLP, and a two-way mirror display.<br/>
+      <a href="https://github.com/Dqrshan/smart-mirror-assistant">GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="60">
+      <!-- No icon available -->
+      <img src="https://via.placeholder.com/48?text=ML" width="48" />
+    </td>
+    <td>
+      <b>Maglev Simulation</b><br/>
+      High-performance OpenGL physics simulation with interactive controls and real-time 3D visualizations of magnetic levitation.<br/>
+      <a href="https://github.com/Dqrshan/maglev-simulation">GitHub</a>
     </td>
   </tr>
 </table>
