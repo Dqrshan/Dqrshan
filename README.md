@@ -55,7 +55,7 @@
       <img src="https://loveallcard.com/images/Love_All.avif" width="48" />
     </td>
     <td>
-      <b>LoveAll</b><br/>
+      <b>LoveAll Business Platform</b><br/>
       A MERN-stack social platform featuring four distinct dashboards and Razorpay integration, streamlining interactions between users, businesses, and volunteers.<br/>
       <a href="https://loveallcard.com/">Website</a>
     </td>
