@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td width="60">
-      <img src="https://via.placeholder.com/48?text=CR" width="48" />
+      <img src="https://i.ibb.co/m5zcdNM3/favicon.png" width="48" />
     </td>
     <td>
       <b>CodeRace</b><br/>
