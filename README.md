@@ -9,13 +9,19 @@
 
 ## Tech Stack
 
-![Languages](https://skillicons.dev/icons?i=js,ts,python,html,css,md)
+![Languages](https://skillicons.dev/icons?i=js,ts,python,html,css)
 
-![Full Stack](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,flask,fastapi,vite)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,vite)
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,discordjs)
 
 ![Databases & ORMs](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,prisma,sequelize)
 
-![Tools & Platforms](https://skillicons.dev/icons?i=vscode,figma,ps,linux,vercel,netlify,arduino,git,bun,docker,aws)
+![Tools](https://skillicons.dev/icons?i=git,vscode,figma,ps,md,regex,docker,bun,nginx,opencv)
+
+![Platforms](https://skillicons.dev/icons?i=vercel,netlify,arduino,ubuntu)
+
+![Services](https://skillicons.dev/icons?i=aws,github,supabase,firebase)
 
 ## My Projects
 
