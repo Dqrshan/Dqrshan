@@ -9,115 +9,115 @@
 
 ## Tech Stack
 
-![Languages](https://skillicons.dev/icons?i=js,ts,python,html,css)
+![Languages & Frontend](https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,astro,tailwind,vite)
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,vite)
-
-![Backend](https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,discordjs)
-
-![Databases & ORMs](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,prisma,sequelize)
+![Backend & Databases & ORMs](https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,discordjs,mongodb,mysql,postgres,sqlite,prisma,sequelize)
 
 ![Tools](https://skillicons.dev/icons?i=git,vscode,figma,ps,md,regex,docker,bun,nginx,opencv)
 
-![Platforms](https://skillicons.dev/icons?i=vercel,netlify,arduino,ubuntu)
-
-![Services](https://skillicons.dev/icons?i=aws,github,supabase,firebase)
+![Platforms & Services](https://skillicons.dev/icons?i=vercel,netlify,arduino,ubuntu,aws,github,supabase,firebase)
 
 ## My Projects
 
 <table>
   <tr>
-    <td width="60">
-      <img src="https://ziphive.js.org/web-app-manifest-512x512.png" width="48" />
+    <td width="50%">
+      <div style="display: flex; gap: 12px; margin-bottom: 16px; align-items: flex-start;">
+        <img src="https://ziphive.js.org/web-app-manifest-512x512.png" width="48" height="48" style="flex-shrink: 0; min-width: 48px;" />
+        <div>
+          <b>Zip Hive</b><br/>
+          <small>A productivity web tool that visualizes hierarchical folder structures from plain text and generates downloadable ZIP files instantly.</small><br/>
+          <a href="https://ziphive.js.org">Website</a>・<a href="https://discord.com/invite/x9EMPXCdSP">Discord</a>
+        </div>
+      </div>
     </td>
-    <td>
-      <b>Zip Hive</b><br/>
-      A productivity web tool that visualizes hierarchical folder structures from plain text and generates downloadable ZIP files instantly.<br/>
-      <a href="https://ziphive.js.org">Website</a>・<a href="https://discord.com/invite/x9EMPXCdSP">Discord</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="60">
-      <img src="https://darshan.is-a.dev/media/codeday.jpeg" width="48" />
-    </td>
-    <td>
-      <b>AstroFit</b><br/>
-      An award-winning computer vision fitness app for astronauts that uses OpenCV and MediaPipe to track reps, sets, and live form via an AR helmet wireframe.<br/>
-      <a href="https://codeday.sh/astrofit">Showcase</a>・<a href="https://github.com/TheMadHau5/AstroKit">GitHub</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="60">
-      <img src="https://i.ibb.co/m5zcdNM3/favicon.png" width="48" />
-    </td>
-    <td>
-      <b>CodeRace</b><br/>
-      A tiered competitive programming platform built to facilitate and automate lab internal examinations for 1000+ CS students.<br/>
+    <td width="50%">
+      <div style="display: flex; gap: 12px; margin-bottom: 16px; align-items: flex-start;">
+        <img src="https://darshan.is-a.dev/media/codeday.jpeg" width="48" height="48" style="flex-shrink: 0; min-width: 48px;" />
+        <div>
+          <b>AstroFit</b><br/>
+          <small>Award-winning computer vision fitness app for astronauts using OpenCV and MediaPipe to track reps, sets, and form via AR helmet wireframe.</small><br/>
+          <a href="https://codeday.sh/astrofit">Showcase</a>・<a href="https://github.com/TheMadHau5/AstroKit">GitHub</a>
+        </div>
+      </div>
     </td>
   </tr>
   <tr>
-    <td width="60">
-      <!-- No icon available -->
-      <img src="https://loveallcard.com/images/Love_All.avif" width="48" />
+    <td width="50%">
+      <div style="display: flex; gap: 12px; margin-bottom: 16px; align-items: flex-start;">
+        <img src="https://i.ibb.co/m5zcdNM3/favicon.png" width="48" height="48" style="flex-shrink: 0; min-width: 48px;" />
+        <div>
+          <b>CodeRace</b><br/>
+          <small>Tiered competitive programming platform automating lab internal examinations for 1000+ CS students.</small><br/>
+        </div>
+      </div>
     </td>
-    <td>
-      <b>LoveAll Business Platform</b><br/>
-      A MERN-stack social platform featuring four distinct dashboards and Razorpay integration, streamlining interactions between users, businesses, and volunteers.<br/>
-      <a href="https://loveallcard.com/">Website</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="60">
-      <!-- No icon available -->
-      <img src="https://via.placeholder.com/48?text=Cert" width="48" />
-    </td>
-    <td>
-      <b>Certificate Generation</b><br/>
-      An end-to-end certificate automation platform with drag-and-drop template design, CSV mapping, and bulk PDF email distribution.<br/>
-    </td>
-  </tr>
-  <tr>
-    <td width="60">
-      <!-- No icon available -->
-      <img src="https://via.placeholder.com/48?text=AC" width="48" />
-    </td>
-    <td>
-      <b>Agri Connect</b><br/>
-      A Google Solution Challenge mobile app connecting farmers to markets with OTP login, AI crop health scanning, and transaction logging.<br/>
-      <a href="https://github.com/Dqrshan/agri-connect">GitHub</a>
+    <td width="50%">
+      <div style="display: flex; gap: 12px; margin-bottom: 16px; align-items: flex-start;">
+        <img src="https://loveallcard.com/images/Love_All.avif" width="48" height="48" style="flex-shrink: 0; min-width: 48px;" />
+        <div>
+          <b>LoveAll Business Platform</b><br/>
+          <small>MERN-stack social platform with four distinct dashboards and Razorpay integration.</small><br/>
+          <a href="https://loveallcard.com/">Website</a>
+        </div>
+      </div>
     </td>
   </tr>
   <tr>
-    <td width="60">
-      <img src="https://darshan.is-a.dev/media/discord_debug.webp" width="48" />
+    <td width="50%">
+      <div style="display: flex; gap: 12px; margin-bottom: 16px; align-items: flex-start;">
+        <img src="https://via.placeholder.com/48?text=Cert" width="48" height="48" style="flex-shrink: 0; min-width: 48px;" />
+        <div>
+          <b>Certificate Generation</b><br/>
+          <small>End-to-end automation with drag-and-drop template design, CSV mapping, and bulk PDF distribution.</small><br/>
+        </div>
+      </div>
     </td>
-    <td>
-      <b>discord-debug</b><br/>
-      A developer utility npm package that provides a suite of custom commands for real-time diagnostics and debugging within Discord.js bots.<br/>
-      <a href="https://npmjs.com/package/discord-debug">npm</a>・<a href="https://lxrnz.gitbook.io/discord-debug">Docs</a>
+    <td width="50%">
+      <div style="display: flex; gap: 12px; margin-bottom: 16px; align-items: flex-start;">
+        <img src="https://via.placeholder.com/48?text=AC" width="48" height="48" style="flex-shrink: 0; min-width: 48px;" />
+        <div>
+          <b>Agri Connect</b><br/>
+          <small>Google Solution Challenge app connecting farmers to markets with OTP login and AI crop health scanning.</small><br/>
+          <a href="https://github.com/Dqrshan/agri-connect">GitHub</a>
+        </div>
+      </div>
     </td>
   </tr>
   <tr>
-    <td width="60">
-      <!-- No icon available -->
-      <img src="https://via.placeholder.com/48?text=SM" width="48" />
+    <td width="50%">
+      <div style="display: flex; gap: 12px; margin-bottom: 16px; align-items: flex-start;">
+        <img src="https://darshan.is-a.dev/media/discord_debug.webp" width="48" height="48" style="flex-shrink: 0; min-width: 48px;" />
+        <div>
+          <b>discord-debug</b><br/>
+          <small>Developer utility npm package with custom commands for real-time diagnostics in Discord.js bots.</small><br/>
+          <a href="https://npmjs.com/package/discord-debug">npm</a>・<a href="https://lxrnz.gitbook.io/discord-debug">Docs</a>
+        </div>
+      </div>
     </td>
-    <td>
-      <b>Smart Mirror Assistant</b><br/>
-      Voice-controlled smart mirror that provides date/time, weather, news, and more using IoT, NLP, and a two-way mirror display.<br/>
-      <a href="https://github.com/Dqrshan/smart-mirror-assistant">GitHub</a>
+    <td width="50%">
+      <div style="display: flex; gap: 12px; margin-bottom: 16px; align-items: flex-start;">
+        <img src="https://via.placeholder.com/48?text=SM" width="48" height="48" style="flex-shrink: 0; min-width: 48px;" />
+        <div>
+          <b>Smart Mirror Assistant</b><br/>
+          <small>Voice-controlled smart mirror providing date/time, weather, news using IoT and NLP.</small><br/>
+          <a href="https://github.com/Dqrshan/smart-mirror-assistant">GitHub</a>
+        </div>
+      </div>
     </td>
   </tr>
   <tr>
-    <td width="60">
-      <!-- No icon available -->
-      <img src="https://via.placeholder.com/48?text=ML" width="48" />
+    <td width="50%">
+      <div style="display: flex; gap: 12px; align-items: flex-start;">
+        <img src="https://via.placeholder.com/48?text=ML" width="48" height="48" style="flex-shrink: 0; min-width: 48px;" />
+        <div>
+          <b>Maglev Simulation</b><br/>
+          <small>High-performance OpenGL physics simulation with interactive controls and real-time 3D visualizations.</small><br/>
+          <a href="https://github.com/Dqrshan/maglev-simulation">GitHub</a>
+        </div>
+      </div>
     </td>
-    <td>
-      <b>Maglev Simulation</b><br/>
-      High-performance OpenGL physics simulation with interactive controls and real-time 3D visualizations of magnetic levitation.<br/>
-      <a href="https://github.com/Dqrshan/maglev-simulation">GitHub</a>
-    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
