@@ -12,7 +12,7 @@
 
 <img src="./banner.svg" width="100%" alt="" />
 
-I'm a full-stack developer with over five years of experience building production-grade applications end to end. I focus on clean architecture, thoughtful interfaces, and software that teams can depend on.
+I'm a full-stack developer who builds production-grade applications end to end. I focus on clean architecture, thoughtful interfaces, and software that teams can depend on.
 
 
 ## Stack
