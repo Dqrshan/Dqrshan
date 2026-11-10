@@ -2,7 +2,7 @@
 
 # Darshan
 
-**Full-Stack Developer** &nbsp;&middot;&nbsp; Bengaluru, India
+**Software Engineer, AI Products, Communities** &nbsp;&middot;&nbsp; Bengaluru, India
 
 <a href="https://darshan.is-a.dev/">Portfolio</a> &nbsp;&middot;&nbsp;
 <a href="https://linkedin.com/in/darshanb05">LinkedIn</a> &nbsp;&middot;&nbsp;
