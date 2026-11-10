@@ -22,6 +22,10 @@ TypeScript &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; React 
 
 ## Experience
 
+**Trainee Engineer - SWD** &nbsp;&middot;&nbsp; AkonzioAI
+<br />
+*Aug 2026 – Sep 2026*
+
 **AI/ML Intern** &nbsp;&middot;&nbsp; AIRD Tech Pvt Ltd
 <br />
 *Dec 2025 – Apr 2026*
